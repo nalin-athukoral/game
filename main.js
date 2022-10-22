@@ -1,0 +1,11 @@
+"use strict";
+exports.__esModule = true;
+var game_1 = require("./classes/game");
+var home_1 = require("./classes/home");
+var h = new home_1.Home('ddd');
+var n = new game_1.Game();
+console.log(game_1.Game.num);
+console.log(h.getSum());
+// A();
+// B();
+// C();
