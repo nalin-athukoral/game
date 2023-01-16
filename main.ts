@@ -12,6 +12,6 @@ console.log(Game.num);
 console.log(h.getSum());
 
 
-// A();
-// B();
-// C();
+A();
+B();
+C();
